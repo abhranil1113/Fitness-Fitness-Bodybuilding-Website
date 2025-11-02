@@ -1,0 +1,73 @@
+================================================================
+🔗 HOW TO GET A LINK YOU CAN SHARE WITH EVERYONE
+================================================================
+
+Your website files are READY! Now you need to deploy them online
+so anyone can access them through a link.
+
+================================================================
+OPTION 1: NETLIFY DROP (FASTEST - 2 MINUTES)
+================================================================
+
+STEP 1:
+-------
+Open this link in your browser:
+👉 https://app.netlify.com/drop
+
+
+STEP 2:
+-------
+Find this folder on your computer:
+📁 C:\Users\User\OneDrive\Desktop\Project TICST\fitness_website\standalone
+
+
+STEP 3:
+-------
+Drag the ENTIRE "standalone" folder into the Netlify Drop page
+(in your browser window)
+
+
+STEP 4:
+-------
+Wait 30 seconds... ⏳
+
+
+STEP 5:
+-------
+You'll get a link like: https://random-name-123.netlify.app
+👉 THIS IS YOUR SHAREABLE LINK! Copy it!
+
+
+STEP 6:
+-------
+Share this link with anyone:
+- Send via WhatsApp
+- Send via Email
+- Post on social media
+- Anyone can click and use your fitness website!
+
+
+================================================================
+WHAT HAPPENS WHEN SOMEONE CLICKS YOUR LINK:
+================================================================
+
+✅ They see your fitness website
+✅ They can fill out the form
+✅ They get workout plans
+✅ They get diet plans
+✅ Everything works perfectly!
+
+
+================================================================
+YOUR FILES ARE HERE (READY TO DEPLOY):
+================================================================
+
+📁 fitness_website\standalone\
+   ├── index.html  ✅
+   ├── styles.css  ✅
+   ├── app.js      ✅
+
+All files are ready! Just drag the folder to Netlify Drop!
+
+================================================================
+

@@ -1,0 +1,63 @@
+==========================================================================
+HOW TO GET A SHAREABLE LINK FOR YOUR FITNESS WEBSITE
+==========================================================================
+
+OPTION 1: NETLIFY DROP (EASIEST - NO ACCOUNT NEEDED!)
+------------------------------------------------------
+1. Go to: https://app.netlify.com/drop
+2. Open the "standalone" folder on your computer
+3. Drag the ENTIRE folder into the browser window
+4. Wait 30 seconds
+5. You'll get a link like: https://random-name-123.netlify.app
+6. Share this link with everyone!
+
+OPTION 2: NETLIFY (WITH ACCOUNT)
+----------------------------------
+1. Go to: https://app.netlify.com/
+2. Sign up for free (takes 1 minute)
+3. Click "Add new site" → "Deploy manually"
+4. Drag and drop the "standalone" folder
+5. Your site goes live with a custom link!
+
+OPTION 3: GITHUB PAGES (FREE FOREVER)
+---------------------------------------
+1. Create account: https://github.com
+2. Create new repository (name it "fitness-website")
+3. Upload all files from "standalone" folder
+4. Go to: Settings → Pages
+5. Select "main" branch → Save
+6. Your link: https://yourusername.github.io/fitness-website
+
+OPTION 4: VERCEL (VERY FAST)
+------------------------------
+1. Go to: https://vercel.com/
+2. Sign up/login
+3. Click "Add New" → "Project"
+4. Upload "standalone" folder
+5. Deploy → Get link instantly!
+
+RECOMMENDED: Use Option 1 (Netlify Drop) - It's the fastest!
+
+==========================================================================
+WHAT TO DEPLOY:
+==========================================================================
+
+Deploy the CONTENTS of the "standalone" folder:
+- index.html
+- styles.css  
+- app.js
+
+Make sure all 3 files are in the same folder when deploying.
+
+==========================================================================
+YOUR LIVE LINK WILL LOOK LIKE:
+==========================================================================
+
+https://your-site-name.netlify.app
+OR
+https://yourusername.github.io/repo-name
+OR
+https://your-site.vercel.app
+
+==========================================================================
+
